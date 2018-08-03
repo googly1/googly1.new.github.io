@@ -1,0 +1,12 @@
+#intro {
+	text-align: center; 
+	color: grey; 
+	border: 2px solid;
+	border-color: pink;
+}
+
+body {
+	text-align: center;
+	background-image: url("background.jpeg");
+	background-size: cover;
+}
